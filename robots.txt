@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://riveraden.github.io/sitemap
+Sitemap: https://riveraden.github.io/app/sitemap
+Sitemap: https://riveraden.github.io/assets/sitemap
+Sitemap: https://riveraden.github.io/css/sitemap
+Sitemap: https://riveraden.github.io/includes/sitemap
+Sitemap: https://riveraden.github.io/item/sitemap
+Sitemap: https://riveraden.github.io/src/sitemap
